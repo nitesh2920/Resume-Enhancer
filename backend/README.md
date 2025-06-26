@@ -18,8 +18,8 @@ This is the **FastAPI backend** for the AI-powered Resume Enhancer application. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nitesh2920/your-repo-name.git
-cd your-repo-name/backend
+git clone https://github.com/nitesh2920/Resume-Enhancer
+cd Resume-Enhancer/backend
 python -m venv venv
 # Windows
 venv\Scripts\activate
