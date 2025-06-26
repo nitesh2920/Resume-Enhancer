@@ -18,6 +18,5 @@ Make sure you have the following installed on your machine:
 
 ## Frontend and Backend Setup and Running
 
-
-  [Backend README](../backend/README.md)
-  [Frontend README](../frontend/README.md)
+- [Backend README](backend/README.md)
+- [Frontend README](frontend/README.md)
